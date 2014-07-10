@@ -5,7 +5,7 @@
  * developed for http://www.musings.it and released as a freebie
  *  
  * animations: horizontal slide, vertical slide of lists
- * types of lists: images, texts, inserted as div or as ul - li
+ * types of lists: imageadasda, texts, inserted as div or as ul - li
  * CONFIGURABLE PARAMETERS
  * visible_elements: number of visible elements of a list
  * scrolling_items: list scrolling step
